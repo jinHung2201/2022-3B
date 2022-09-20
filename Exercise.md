@@ -3,6 +3,8 @@ Strong emphasis, aka bold, with **asterisks** or **underscores**.
 Combined emphasis with **asterisks and underscores**.
 Strikethrough uses two tildes. ~~Seratch this~~.
 
+---
+
 1. First ordered list item
 2. Another item
 ..* Unordered sub-list.
@@ -14,8 +16,12 @@ Strikethrough uses two tildes. ~~Seratch this~~.
 ..* note 2
 *** note 3
 
+---
+
 - [ ] todo list
 - [ ] 2nd things
+
+---
 
 ```py
 s = "Python syntax highlighting"
