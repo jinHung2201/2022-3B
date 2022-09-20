@@ -27,6 +27,7 @@ Strikethrough uses two tildes. ~~Seratch this~~.
 s = "Python syntax highlighting"
 print s
 ```
+---
 
 ```js
 var s = "JavaScript syntax highlighting"
