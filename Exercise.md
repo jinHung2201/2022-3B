@@ -32,3 +32,9 @@ print s
 var s = "JavaScript syntax highlighting"
 alert(s);
 ```
+
+---
+
+Colons can be used to align columns
+
+
